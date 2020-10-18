@@ -8,6 +8,11 @@
     <Authors>Derek Wiers</Authors>
     <IsPackable>true</IsPackable>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>Glow</Title>
+    <Description>Color your console app output functionally in a Fable.React-style way.</Description>
+    <PackageProjectUrl>https://github.com/dtwiers/glow</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/dtwiers/glow</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
